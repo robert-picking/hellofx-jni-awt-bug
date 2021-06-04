@@ -1,0 +1,7 @@
+[
+    {
+        "name":"org.apache.commons.configuration2.PropertiesConfiguration",
+        "allPublicMethods":true,
+        "allPublicConstructors":true
+    }
+]
